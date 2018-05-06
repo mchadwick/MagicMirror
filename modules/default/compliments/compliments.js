@@ -17,7 +17,7 @@ Module.register("compliments", {
 				"Be the change you wish to see in the world.",
 				"Five hundred twenty-five thousand six hundred minutes",
 				"Give me your own special smile",
-				"Have you ever tried to eat a clock?",
+				"Have you ever tried to eat a clock?\nIt's very time consuming.",
  				"I am a unique child of this world.",
 				"I am blessed with an incredible family and wonderful friends.",
 				"I am courageous and I stand up for myself.",
